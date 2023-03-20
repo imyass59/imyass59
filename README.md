@@ -19,7 +19,7 @@ I'm a Full Stack Developer with experience in building interfaces with the React
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,prisma)](#)
 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,postman,nginx,gcp,linux)](#)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,postman,nginx,gcp,linux,firebase)](#)
 
 [![In the process of learning](https://shields.io/badge/-In%20the%20process%20of%20learning-yellow)](#)
 
