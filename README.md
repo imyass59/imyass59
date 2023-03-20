@@ -21,7 +21,8 @@ I'm a Full Stack Developer with experience in building interfaces with the React
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,postman,nginx,gcp,linux)](#)
 
-**In the process of learning :**
+[![In the process of learning](https://shields.io/badge/-In%20the%20process%20of%20learning-yellow)](#)
+
 [![My Skills](https://skillicons.dev/icons?i=nestjs,nextjs,graphql)](#)
 
 
