@@ -23,6 +23,6 @@ I am a highly motivated developer with a proven track record of effectively comm
 
 [![In the process of learning](https://shields.io/badge/-In%20the%20process%20of%20learning-yellow)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nextjs,graphql)](#)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nextjs,graphql,hasura)](#)
 
 
