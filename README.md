@@ -10,19 +10,19 @@ I am a highly motivated developer with a proven track record of effectively comm
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyass-elkhadiri/)
 ## Techniques
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,styledcomponents,tailwind,bootstrap)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,styledcomponents,tailwind,bootstrap)](#)
 
 
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,net,cs)](#)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs)](#)
 
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,prisma)](#)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,prisma,graphql)](#)
 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,postman,nginx,gcp,linux,firebase)](#)
 
 [![In the process of learning](https://shields.io/badge/-In%20the%20process%20of%20learning-yellow)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nextjs,graphql,hasura)](#)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,hasura)](#)
 
 
