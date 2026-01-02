@@ -3,7 +3,7 @@
 
 
 ## I'm Ilyass Elkhadiri
-I am a highly motivated developer with a proven track record of effectively communicating team and tackling complex challenges, I have an insatiable curiosity to explore new areas and am always eager to learn new technologies, that's why I am thrilled to introduce myself to your company, with my skills and experience as a full stack developer with react and node.js, I am confident that I can make a significant contribution to your team's success.
+As a motivated full-stack developer, I have a strong knowledge of React and Node.js. I enjoy solving complex problems, collaborating effectively with teams, and continuously learning new technologies. I am excited about the opportunity to contribute my skills and bring real value to your team.
 
 
 ## 
