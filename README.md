@@ -25,4 +25,4 @@ As a motivated full-stack developer, I have a strong knowledge of React and Node
 
 [![My Skills](https://skillicons.dev/icons?i=nestjs,hasura)](#)
 
-
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=imyass59&hide=contribs,prs)
