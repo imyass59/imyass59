@@ -1,28 +1,39 @@
+# Hi, I’m Ilyass Elkhadiri 👋
 
-# Hi ! 👋
+### Full-Stack JavaScript Developer
 
+I’m a passionate full-stack developer specializing in **React, Next.js, and Node.js**.  
+I enjoy building scalable web applications, solving complex problems, and turning ideas into clean, maintainable code.
 
-## I'm Ilyass Elkhadiri
-As a motivated full-stack developer, I have a strong knowledge of React and Node.js. I enjoy solving complex problems, collaborating effectively with teams, and continuously learning new technologies. I am excited about the opportunity to contribute my skills and bring real value to your team.
+I’m always learning, improving, and looking for opportunities where I can **create real impact** through technology.
 
+---
 
-## 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyass-elkhadiri/)
-## Techniques
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyass-elkhadiri/)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,styledcomponents,tailwind,bootstrap)](#)
+---
 
+## 🚀 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs)](#)
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,styledcomponents,tailwind,bootstrap)
 
+### Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,prisma,graphql)](#)
+### Databases & APIs
+![Database](https://skillicons.dev/icons?i=mysql,mongodb,prisma,graphql)
 
+### Tools & DevOps
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,nginx,linux,firebase,gcp)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,postman,nginx,gcp,linux,firebase)](#)
+---
 
-[![In the process of learning](https://shields.io/badge/-In%20the%20process%20of%20learning-yellow)](#)
+## 🌱 Currently Learning
+![Learning](https://skillicons.dev/icons?i=nestjs,hasura)
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,hasura)](#)
+---
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=imyass59&hide=stars)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imyass59&hide=stars&show_icons=true)
