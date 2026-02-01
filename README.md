@@ -36,4 +36,4 @@ I’m always learning, improving, and looking for opportunities where I can **cr
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imyass59&hide=stars&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imyass59&hide=stars)
